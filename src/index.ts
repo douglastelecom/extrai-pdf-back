@@ -31,6 +31,6 @@ app.post("/test", async (req: Request, res: Response) => {
     await extraAIController.testConnections(req, res)
 })
 
-app.get('/healthcheck', (req: Request, res: Response) => {
+app.get("/", (req: Request, res: Response) => {
     res.status(200).send('Server is running');
 });
