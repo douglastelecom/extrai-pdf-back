@@ -1,0 +1,699 @@
+
+
+534REV ASSOC MED BRAS 2020; 66(4):534-540
+What do we know about COVID-19?  A review 
+article
+Júlia Maggi Vieira
+1
+Olívia Moura de Paula Ricardo
+1
+Carolina Miranda Hannas
+1
+Tereza Cristina Moreira Kanadani
+1
+Tiago dos Santos Prata
+2
+Fábio Nishimura Kanadani
+3
+1. Departamento de Oftalmologia, Instituto de Olhos Ciências Médicas, Belo Horizonte, Minas Gerais, Brasil. 
+2. Department of Ophthalmology, Mayo Clinic, Jacksonville, Florida, USA;  Departamento de Oftalmologia e Ciência Visual, Universidade Federal de São Paulo,  
+São Paulo, Brasil. Unidade de Glaucoma, Hospital Medicina dos Olhos, Osasco, São Paulo, Brasil. 
+3. Departamento de Oftalmologia, Instituto de Olhos Ciências Médicas, Belo Horizonte, Minas Gerais, Brasil;  
+Department of Ophthalmology, Mayo Clinic, Jacksonville, Florida, USA
+http://dx.doi.org/10.1590/1806-9282.66.4.534
+DATE OF SUBMISSION: 17-Abr-2020 
+DATE OF ACCEPTANCE: 17-Abr-2020
+CORRESPONDING AUTHOR: Júlia Maggi Vieira 
+Rua Cyro Vaz de Melo, 474/102 - Dona Clara, BH/MG. Tel.: +55 31 996947154 
+E-mail: juliamaggi27@gmail.com
+INTRODUCTION
+The epidemic of the 2019 novel coronavirus (severe 
+acute respiratory syndrome coronavirus 2 - SARS-
+CoV-2), which was first identified in Wuhan, a city 
+in the Hubei province in China, is being exported to 
+a growing number of countries. Early efforts were 
+focused on describing the clinical course, counting 
+severe cases, and treating the disease
+1. 
+Covid-19 has 
+spread rapidly and has been shown to have a wide 
+spectrum of severity. The World Health Organization 
+(WHO) has recently declared coronavirus disease 2019 
+(Covid-19) a public health emergency of international 
+concern
+2. 
+So far, according to the World Health Organiza-
+tion
+3, 
+COVID-19 has affected globally 1.210.956 indi-
+viduals and accounted for over 67.594 deaths.
+Since this is a new disease, the scientific community 
+SUMMARY
+OBJECTIVES: To bring summarized information about what has been published so far regarding Covid-19, facilitating the access to 
+information and a better understanding of this pandemic, and to contribute to the medical community in the decision-making 
+against this virus.
+METHODS: This review article brings collected information from different articles published since the beginning of the pandemic 
+of the 2019 novel coronavirus.
+KEY RESULTS: This paper aggregates and consolidates some epidemiological parameters and clinical knowledge about the novel 
+coronavirus and brings what is new in the search for pandemic control.
+MAJOR CONCLUSIONS: Governments and health authorities are under increased pressure to control the COVID-19 spreading. 
+In this scenario, the scientific community is working hard to produce relevant papers which will help in the next steps against 
+coronavirus. Our review summarized the latest news about SARS-CoV2, evidencing what we know about COVID-19 until now.
+KEYWORDS: Coronavirus. Covid-19. Respiratory insufficiency. Pneumonia. Pandemics.
+REVIEW ARTICLE
+
+VIEIRA, J. M. ET AL
+535REV ASSOC MED BRAS 2020; 66(4):534-540
+positive results for SARS-CoV2 on RT-PCR in conjuncti-
+val swabs and suggested the possibility of transmission 
+through the eyes
+7
+. Currently, there is no evidence for 
+intrauterine vertical transmission of COVID-19
+24.
+Based on observations of data from the early out-
+break in China, the trend of an increasing incidence 
+largely follows exponential growth, and the mean 
+basic reproduction number (R0) was estimated from 
+2.24 to 3.58
+20
+.
+The fraction of undocumented cases with mild, 
+limited, or no symptoms is critical to the spread of 
+coronavirus. Li et al.
+25 
+estimated the prevalence and 
+contagiousness of these undocumented cases with a 
+mathematical model of simulation. They found that 
+patients with no reported infection are half as conta-
+gious, per individual, as reported ones. However, 86.2% 
+(95%CI: 81.5-89.8) of all infections were from undocu-
+mented cases. Their simulation predicted that 78.8% of 
+reported infections should have been reduced without 
+transmission from undocumented cases
+25.
+Incubation Period
+The incubation period is critical to understand the 
+infectiousness of COVID-19, its epidemic size, and the 
+ideal time for the quarantine period. It is defined as 
+the period between the day of infection and the ill-
+ness onset. Linton et al.
+15  
+found an average incuba-
+tion period of 5.6 days (95%CI: 5.0,6.3) (n=158). Most 
+infected people that present symptoms will do so 
+within 12 days of the primary contact and the current 
+period of active monitoring (14 days) is well supported 
+by the evidence
+26.
+Signs and symptoms
+The symptoms may vary, according to studies, 
+due to different samples, the period of analysis of the 
+patients, and subjectivity of data. However, this review 
+enabled a satisfactory survey of the main signs and 
+symptoms. The most common symptoms at the onset 
+of illness, according to the case series analyzed and 
+represented in Table 2, were fever, cough, myalgia, 
+fatigue, sputum production, and dyspnea [Table 2]. 
+Some patients had radiographic evidence of pneumo-
+nia with bilateral diffuse airspace opacities. Some of 
+which needed supplemental oxygen too
+6. 
+Less com-
+mon symptoms included hemoptysis, abdominal pain, 
+diarrhea, nausea, and vomiting
+5
+. Sore throat and nasal 
+congestion occurred in only around 5-10% of patients
+22
+. 
+Neurological signs and symptoms were also described, 
+such as headache, dizziness, impaired consciousness, 
+is engaged in new research that better explains the 
+pathophysiology, diagnosis, clinical course, and treat-
+ment of coronavirus. Many works are published daily 
+showing different outcomes of the disease, mainly 
+regarding the symptoms and the treatment, which does 
+not have one specific path so far, making it difficult 
+to follow and understand the updates. This study will 
+discuss information on what we know about Covid-19 
+so far to summarize and facilitate the access to infor-
+mation and a better understanding of this pandemic in 
+order to contribute to the medical community in the 
+decision-making and direct new studies on issues that 
+remain limited about SARS-CoV2.
+MATERIALS AND METHODS
+Our study brings whats is known about the corona-
+virus so far and aims to gather essential information to 
+better understand this pandemic and help on the next 
+steps that the scientific community must take. This 
+is a review article that brings collected information 
+from different articles published since the beginning 
+of the epidemic of the 2019 novel coronavirus [Pubmed 
+“covid-19”; “coronavirus”; “H1N1 infection”]. There 
+were no date or language restrictions. Information 
+was collected in cohort studies (4), case series (11), 
+non-randomized clinical trials (1), review articles (7), 
+and others. The search was for information about the 
+epidemiology, rate of infection, hospital care, incuba-
+tion period, signs and symptoms, risk factors, con-
+founding factors, and current treatment. The majority 
+of the data on COVID-19 come from Asia. The elec-
+tronic databases were last searched on 06 April 2020. 
+The main papers used are listed in Table 1
+.
+ 
+RESULTS
+Rate of Infection
+At the beginning of the outbreak, an association 
+between the origin of COVID- 19 and the wet animal 
+market in Wuhan City, where live animals are routinely 
+sold, was identified
+19
+. But after the progression of the 
+virus, the person-to-person transmission became the 
+most important way of transmission. It occurs pri-
+marily via direct contact or through droplets spread 
+by the coughing or sneezing of an infected individ-
+ual
+19
+. Recently, SARS-Cov-2 was isolated from feces of 
+patients with Covid-19 by Chinese researchers, indi-
+cating the potential of fecal-oral transmission
+24
+. More-
+over, a study detected a low prevalence of patients with 
+
+WHAT DO WE knOW ABOUT COVID-19?  A REVIEW ARTIClE
+REV ASSOC MED BRAS 2020; 66(4):534-540536
+TABLE 1. MAIn PUBlICATIOnS USED In THIS REVIEW.    
+Study designAuthor / CountryTitle
+Case SeriesMao, et al. (China)Manifestations of Hospitalized Patients with COVID-19 in Wuhan, China: a retro-
+spective case series study.
+Wang, et al. (China)Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus–
+infected pneumonia in Wuhan, China.
+Young, et al. (EUA)Epidemiologic features and clinical course of patients infected with SARS-CoV-2 
+in Singapore.
+Wu, et al. (China. March 2020)Characteristics of ocular findings of patients with coronavirus disease 2019 
+(COVID-19) in Hubei Province, China.
+Bordi, et al.
+(Italia. February 2020)
+Differential diagnosis of illness in patients under investigation for the novel coro-
+navirus (SARS-CoV-2)
+Shen, et al. (China. March 2020)Treatment of 5 Critically Ill Patients With COVID-19 With Convalescent Plasma.
+Yang, et al.
+(China, 2020)
+Clinical characteristics and imaging manifestations of the 2019 novel coronavirus 
+disease (COVID-19): A multi-center study in Wenzhou city, Zhejiang, China.
+liu, et al.
+(China, March 2020)
+CT manifestations of coronavirus disease-2019: a retrospective analysis of 73 
+cases by disease severity.
+Huang, et al. (China)Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China
+Wang, et al. (China)The clinical dynamics of 18 cases of COVID-19 outside of Wuhan, China.
+kong, et al.
+South korea
+Early Epidemiological and Clinical Characteristics of 28 Cases of Coronavirus 
+Disease in South korea.
+Cohortlinton, et al.
+(China. February 2020)
+Incubation Period and Other Epidemiological Characteristics of 2019 novel Coro-
+navirus Infections with Right Truncation
+Guan, et al.Clinical Characteristics of Coronavirus Disease 2019 in China.
+Wu, et al.
+(China. March 2020)
+Risk Factors Associated With Acute Respiratory Distress Syndrome and Death in 
+Patients With Coronavirus Disease 2019 Pneumonia in Wuhan, China.
+Zhou, et al.
+(China)
+Clinical course and risk factors for mortality of adult inpatients with COVID-19 in 
+Wuhan, China: a retrospective cohort study.
+non-random-
+ized Clinical Trial
+Gautret, et al.
+(France. March 2020)
+Hydroxychloroquine and Azithromycin as a treatment of COVID-19: Results of an 
+open-label non-randomized clinical trial.
+Review Articlelipsitch, et al. (EUA. February 2020)Defining the Epidemiology of Covid-19 — Studies needed.
+Rothan, et al. (February 2020)The epidemiology and pathogenesis of coronavirus disease (COVID-19) outbreak.
+lai, et al
+(February 2020)
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and coronavirus 
+disease-2019 (COVID-19): the epidemic and the challenges.
+Wu, et al (February 2020)The SARS-CoV2 Outbreak: WhatsApp se know. International Journal of Infectious 
+Diseases.
+Thomas-Rüddel, et al. (Germany. 
+March 2020)
+Coronavirus disease 2019 (COVID-19): update for anesthesiologists and intensiv-
+ists March 2020.
+Chen, et al. (February 2020)Convalescent plasma as a potential therapy for COVID-19.
+Jiang, et al. (March 2020)Review of the clinical characteristics of coronavirus disease 2019 (COVID-19).
+TABLE 2. MOST COMMOn ClInICAl CHARACTERISTICS OF THE RESEARCHED STUDIES
+AuthorDate
+(MM/YY)
+NN(%)
+FeverCoughMyalgiaFatigueSputum productionDyspnea
+liu, kC 
+11
+05/207368 (93)60 (82)-55 (75)39 (53)-
+Yang, W 
+12
+04/20149114 (76.51)87 (58.39)5 (3.36)-48 (31.21)2 (1.34)
+Wang, l 
+13
+03/201816 (94.4)10 (55.6)2 (11.1)--4 (22)
+Wang, D 
+14
+02/20138136 (98.6)82 (59.4)48 (34.8)96 (69.6)-43 (31.2)
+kui, l 
+15
+02/20137112 (81.8)66 (48.2)44 (32.1)44 (32.1)--
+kong, I 
+16
+02/20289 (32.1)5 (17.9)4 (14.3)-5 (17.9)-
+Huang, C 
+17
+01/204140 (98)31 (76)18 (44)18 (44)11 (28)22 (55)
+ataxia, acute cerebrovascular disease, epilepsy, hypo-
+geusia, and hyposmia
+4
+. Organ dysfunction and death 
+can occur in severe cases
+5.
+Wu et al.
+7 
+analyzed some confirmed or very sus-
+pected cases of COVID-19 to see what are the ocular 
+manifestations and its relation with coronavirus dis-
+ease. They concluded that 31.6% (95% CI: 17.5-48.7) of 
+the patients had ocular abnormalities which are more 
+prevalent in severe (dyspnea, blood oxygen saturation 
+of 93% or less) or critical cases (respiratory failure or 
+
+VIEIRA, J. M. ET AL
+537REV ASSOC MED BRAS 2020; 66(4):534-540
+shock or multiple organ dysfunction). The most com-
+mon ocular symptoms were conjunctivitis, conjunctival 
+hyperemia, epiphora, chemosis, and increased secre-
+tions. In addition, those patients had higher white blood 
+cell, neutrophil, procalcitonin, C-reaction protein, and 
+lactate dehydrogenase
+7.
+Laboratorial parameters may be useful to help the 
+diagnosis, but the virus isolation and viral nucleic acid 
+detection are the exams that confirm the infection. 
+Other nonspecific parameters may be helpful, mainly 
+in the early stage of the disease, like leukopenia, or 
+a normal number of leukocytes with lymphopenia 
+or increased monocytes
+21
+. A procalcitonin, C-reac-
+tion protein, or lactate dehydrogenase increase also 
+appears in COVID-19 infection
+7.
+Image abnormalities could appear in COVID-19 
+infection and vary with age, underlying diseases, 
+immunity, and stage of the infection at the moment 
+of scanning. Some patterns at the chest X-ray or CT 
+Scan are multiple small patchy shadows, interstitial 
+changes, bilateral multiple ground-glass opacity, infil-
+trating shadows, and pulmonary consolidation
+21.
+Risk Factors
+Although most patients are thought to have a favor-
+able prognosis, older ones and those with chronic 
+underlying conditions may have worse outcomes
+16
+.
+A study in China reported the clinical characteris-
+tics and risk factors associated with developing acute 
+respiratory distress syndrome (ARDS) after hospi-
+tal admission and progression from ARDS to death 
+in patients with COVID-19 pneumonia. The study 
+shows that older age (≥65 years old), high fever (≥39 
+°C), comorbidities (eg, hypertension, diabetes), neu-
+trophilia, lymphocytopenia, elevated end-organ related 
+indices, elevated inflammation-related indices, and 
+elevated coagulation function–related indicators were 
+significantly associated with higher risks of unfavor-
+able outcomes and the development of ARDS
+16.
+Hospital care x Intensive care unit
+In a study from China, they obtained data regarding 
+clinical symptoms and outcomes for 1099 patients. A 
+primary outcome event occurred in 67 patients (6.1%), 
+including 5.0% who were admitted to the intensive 
+care unit (ICU), 2.3% who underwent invasive mechan-
+ical ventilation, and 1.4% who died
+2
+.
+In another observational study in China with 158 
+patients, they found that the average time from ill-
+ness onset to hospital admission was different for 
+living and deceased cases, the former was estimated 
+at 3.3 days (95%CI:2.7,4.0) and the latter was 6.5 days 
+(95%CI:5.2,8.0)
+15
+. The mean time from hospitalization 
+to death was 8.8 days (95%CI:7.2,10.8)
+15
+.
+Mortality
+Studies conducted with Chinese patients showed a 
+mortality rate (the number of reported deaths divided 
+by the reported cases) of 3.6%
+28
+. According to the WHO 
+data until 06 March 2020, the rate is also between 
+3-4%
+29
+. A retrospective cohort with 191 patients found 
+that older age, higher Sequential Organ Failure Assess-
+ment (SOFA) score, and d-dimer greater than 1um/mL 
+at admission were associated with higher in-hospital 
+death risk
+17
+.
+However, those estimated mortality rates are 
+not representative of the actual death rate because 
+the actual number of infected patients could not 
+be identified. Not all cases are tested, including 
+most asymptomatic ones or patients with very mild 
+symptoms. Therefore, the mortality rate is proba-
+bly overestimated
+18
+.
+Confounding factors - Differential Diagnosis
+The infection by SARS-CoV-2 causes many non-
+specific symptoms that are shared by other infectious 
+diseases of the respiratory tract, like influenza, parain-
+fluenza virus, adenovirus, respiratory syncytial virus, 
+rhinovirus, and others previously-known human coro-
+naviruses. The diagnosis cannot be definitively made 
+without microbiologic testing
+8,21
+.
+Current treatment
+Until this moment, there are no specific antiviral 
+drugs or vaccines against the COVID-19 infection for 
+potential therapy in humans. One of the options avail-
+able is the use of broad-spectrum antiviral drugs like 
+nucleoside analogs and HIV-protease inhibitors, which 
+could attenuate virus infection
+19
+.
+A great deal of effort has been made to find effec-
+tive drugs against the virus in China. The State Council 
+of China held a news briefing indicating that chloro-
+quine phosphate (CQ) and hydroxychloroquine sulfate 
+(HCQ), old drugs used for the treatment of malaria, had 
+demonstrated efficacy and acceptable safety in treating 
+COVID-19-associated pneumonia in multicenter clini-
+cal trials conducted in China
+30
+. The oral absorption of 
+both drugs in humans is very efficient. As in the case of 
+SARS-CoV, the virus transport of SARS-CoV2 from endo-
+somes to endolysosome appears to be a requirement to 
+
+WHAT DO WE knOW ABOUT COVID-19?  A REVIEW ARTIClE
+REV ASSOC MED BRAS 2020; 66(4):534-540538
+release the viral genome, and both CQ and HCQ have 
+been able to block it. The anti-SARS-CoV2 activity seems 
+to be more potent with CQ; however, HCQ has been 
+shown to be much less toxic than it. Until now, the 
+inhibition of SARS-CoV2 in vitro has been efficient with 
+HCQ using a safe dosage but this awaits confirmation 
+by clinical trials
+31
+.
+Gautret and collaborators conducted an open-label 
+non-randomized clinical trial to investigate the effect 
+of HCQ and Azithromycin in virological clearance, 
+clinical follow-up, and occurrence of side-effects in 
+patients with COVID-19 infection. In this study, 26 
+patients received HCQ (200mg three times per day for 
+ten days) and 16 were the control group. Among the 
+patients treated with HCQ, six received Azithromycin 
+(500mg on day 1, followed by 250mg per day, for the 
+next four days). The results were very promising; at 
+day 6 post-inclusion, the group treated with both drugs 
+had 100% of virological cure compared with 57,1% of 
+patients treated with HCQ only, and 12,5% with no 
+drugs. Further works are needed to investigate these 
+effects with a greater sample and a longer follow up, 
+but also to investigate potential side effects (QT pro-
+longation, ventricular arrhythmia, and retinopathy)
+18
+.
+The convalescent plasma containing neutralizing 
+antibodies or immunoglobulins has been used as a last 
+resource to improve the clinical conditions of patients 
+with ARDS. Moreover, studies have shown a shorter 
+hospital stay and lower mortality in patients treated 
+with convalescent plasma than in those who were not 
+treated with it
+9,23
+.
+An effective treatment is an urgent need to treat 
+symptomatic cases and decrease the transmission 
+of coronavirus in the community by reducing the 
+virus carriage
+18
+.
+Public health and economic impacts
+In the absence of a Covid-19 vaccine or proven and 
+safe treatment, our better protection against coronavi-
+rus is social isolation. This measure aims to decrease 
+contact rates in the population in order to reduce the 
+transmission of the virus. Quarantine brings enor-
+mous social and economic costs in the short, mid, or 
+long-term
+32
+.
+ 
+Many countries made hard decisions to control 
+this epidemic. China locked down whole cities, Italy 
+imposed severe restrictions on the population, and the 
+United States subjected part of the country to quaran-
+tine and part to a recommended “self-quarantine” and 
+banned non-US nationals from entering the country
+33
+.
+DISCUSSION
+Knowledge about the 2019 novel coronavirus 
+remains limited, but we need to learn and collect qual-
+ity information about this clinical threat to deal and 
+respond to the consequences of the pandemic.
+The infection by COVID-19 is gradually being eluci-
+dated by the scientific community, contributing to new 
+steps towards the control of the disease and the search 
+for its treatment. According to this study review, coro-
+navirus has an infection rate (R0) that varies between 
+2 and 3 people and an incubation period of around 
+5.6 days. This information is essential for the deve-
+lopment of preventive measures and epidemiological 
+simulations.
+ 
+It is important to highlight that the rate of infec-
+tion and death are very different within the coun-
+tries. This might be caused because each country 
+followed different protocols. Some with early per-
+son-to-person isolation, others with vertical isolation, 
+and others with no isolation. Another possible cause 
+of this huge difference in the infection and death 
+rates are the capability of each country to test their 
+individuals. While some are testing all individuals 
+at risk, others have no epidemiologic, economic, 
+and political condition to do the same, thus causing 
+unreliable data and underreporting of the disease in 
+most countries.
+The disease presents, in most cases, with fever, 
+cough, myalgia, fatigue, and dyspnea, but it has a 
+wide spectrum of severity, which can cause respira-
+tory failure and require ICU admission for advanced 
+ventilatory support. Knowing the natural history 
+of the disease is essential to think about possible 
+treatments and prepare the health system in the 
+most appropriate way, such as increasing ICU beds 
+and respirators.
+As most studies in the literature are quite recent 
+and use different methodologies, this review aims to 
+facilitate the dissemination of knowledge among sci-
+entists and health care professionals through clear 
+data and information.
+The most effective way to prevent the disease so 
+far is social isolation, which aims to reduce the rate 
+of disease transmission. However, this decision also 
+leads to economic issues and we must not be blind 
+to these effects of the pandemic. Countries with 
+major economic influence in the world are stopping 
+all activities for at least 14 days. This may increase 
+the unemployment rate and the indebtedness of 
+the countries.
+
+VIEIRA, J. M. ET AL
+539REV ASSOC MED BRAS 2020; 66(4):534-540
+LIMITATIONS OF THE STUDY
+Our study has some limitations because different 
+types of studies were analyzed (observational, experi-
+mental, review articles, clinical trials) but most of the 
+information was consistent between them. Another 
+limitation is the short review time for these papers, 
+considering the urgent need for the infection diagno-
+sis, treatment, and pathogenesis.
+ 
+CONCLUSION
+During a pandemic, scientific knowledge advances 
+in an accelerated way. In the race for rapid epidemic 
+control, every minute is important and discoveries 
+cannot be delayed. Governments and health author-
+ities are under increased pressure to control the 
+COVID-19 spreading. In this scenario, the scientific 
+community is working hard to produce relevant 
+papers which will help in the next steps against the 
+coronavirus. Our review summarized clearly the latest 
+news about SARS-CoV2, evidencing what we know 
+about COVID-19 until now.  Further studies are needed 
+to fill the existing gaps in this epidemic knowledge.
+ 
+Conflict of interest
+The authors declare no conflicts of interest.
+Funding
+All authors have no financial disclosures or support 
+in this work.
+Acknowledgments
+Nil.
+Authors Contribuition
+All authors have made substantial contributions 
+to this work. Júlia Vieira, Olívia Ricardo, and Caro-
+lina Hannas conducted the data analysis and writing. 
+Fábio Kanadani, Tereza Kanadani, and Tiago Prata 
+drafted and revised the paper. All authors have seen 
+and approved the manuscript and contributed signifi-
+cantly to the work.
+RESUMO
+OBJETIVOS: Trazer de forma resumida as informações que têm sido publicadas sobre o novo coronavírus, facilitando o acesso à 
+informação e o melhor entendimento dessa pandemia, como também contribuir para a comunidade médica nas decisões para 
+conter o vírus.
+METODOLOGIA: Este artigo de revisão coletou informações de diferentes artigos publicados desde o início da pandemia do 
+novo coronavírus.
+RESULTADOS: Este artigo consolida alguns parâmetros clínicos e epidemiológicos do novo coronavírus e traz o que tem de novo 
+no controle da pandemia.
+CONCLUSÃO: Os governos e autoridades de saúde estão sob pressão constante para conter o alastramento do coronavírus. Nesse 
+cenário, a comunidade científica tem trabalhado e produzido muitos estudos e artigos que têm ajudado a guiar os próximos 
+passos na contenção dessa pandemia. Nossa revisão faz um compilado dos últimos artigos e estudos, trazendo o que sabemos 
+até então sobre a Covid-19.
+PALAVRAS-CHAVE: Coronavírus. Covid-19. Insuficiência respiratória. Pneumonia. Pandemias.
+REFERENCES
+1. lipsitch M, Swerdlow Dl, Finelli l. Defining the epidemiology of Covid-19: 
+studies needed. n Engl J Med. 2020;382(13):1194-6.
+2. Guan WJ, ni ZY, Hu Y, liang WH, Ou CQ, He JX, et al. Clinical characteristics 
+of coronavirus disease 2019 in China. n Engl J Med. 2020; nEJMoa2002032. 
+doi: 10.1056/nEJMoa2002032.
+3. World Health Organization. Coronavirus disease 2019 (COVID-19). Situation 
+report - 77. Geneva: World Health Organization; 2020.
+4. Mao l, Jin H, Wang M, Hu Y, Chen S, He Q, et al. neurologic manifestations 
+of hospitalized patients with Coronavirus Disease 2019 in Wuhan, China. 
+JAMA neurol. 2020 Apr 10;e201127. doi: 10.1001/jamaneurol.2020.1127.
+5. Wang D, Hu B, Hu C, Zhu F, liu X, Zhang J, et al. Clinical characteris-
+tics of 138 hospitalized patients with 2019 novel coronavirus-infected 
+pneumonia in Wuhan, China. JAMA. 2020 Feb 7;e201585. doi: 10.1001/
+jama.2020.1585.
+6. Young BE, Ong SWX, kalimuddin S, low JG, Tan SY, loh J, et al. Epidemi-
+ologic features and clinical course of patients infected with SARS-CoV-2 
+in Singapore. JAMA. 2020 Mar 3;e203204. doi: 10.1001/jama.2020.3204.
+7.   Wu P, Duan F, luo C, liu Q, Qu X, liang l, et al. Characteristics of ocu-
+lar findings of patients with coronavirus disease 2019 (COVID-19) in 
+Hubei Province, China. JAMA Ophthalmol. 2020;e201291. doi: 10.1001/
+jamaophthalmol.2020.1291.
+8. Bordi l, nicastri E, Scorzolini l, Di Caro A, Capobianchi MR, Castilletti C, 
+et al. Differential diagnosis of illness in patients under investigation for the 
+novel coronavirus (SARS-CoV-2). Italy, February 2020. Euro Surveill. 2020 
+Feb;25(8):2000170. doi: 10.2807/1560-7917.ES.2020.25.8.2000170.
+
+WHAT DO WE knOW ABOUT COVID-19?  A REVIEW ARTIClE
+REV ASSOC MED BRAS 2020; 66(4):534-540540
+9. Shen C, Wang Z, Zhao F, Yang Y, li J, Yuan J, et al. Treatment of 5 critically 
+ill patients with COVID-19 with convalescent plasma. JAMA. 2020 Mar 
+27;e204783. doi: 10.1001/jama.2020.4783.
+10. Yang W, Cao Q, Qin l, Wang X, Cheng Z, Pan A, et al. Clinical character-
+istics and imaging manifestations of the 2019 novel coronavirus disease 
+(COVID-19): a multi-center study in Wenzhou city, Zhejiang, China. J Infect. 
+2020;80(4):388-93.
+11. liu kC, Xu P, lv WF, Qiu XH, Yao Jl, Gu JF, et al. CT manifestations of coro-
+navirus disease-2019: a retrospective analysis of 73 cases by disease severity. 
+Eur J Radiol. 2020 May;126:108941. doi: 10.1016/j.ejrad.2020.108941.
+12. Huang C, Wang Y, li X, Ren l, Zhao J, Hu Y, et al. Clinical features of 
+patients infected with 2019 novel coronavirus in Wuhan, China. lancet. 
+2020;395(10223):497-506.
+13. Wang l, Gao YH, lou ll, Zhang GJ. The clinical dynamics of 18 cases of 
+COVID-19 outside of Wuhan, China. Eur Respir J. 2020 Mar 26:2000398. 
+doi: 10.1183/13993003.00398-2020.
+14. COVID-19 national Emergency Response Center, Epidemiology and Case 
+Management Team, korea Centers for Disease Control and Prevention. 
+Early epidemiological and clinical characteristics of 28 cases of coronavirus 
+disease in South korea. Osong Public Health Res Perspect. 2020;11(1):8-14.
+15. linton nM, kobayashi T, Yang Y, Hayashi k, Akhmetzhanov AR, Jung SM, et 
+al. Incubation period and other epidemiological characteristics of 2019 novel 
+coronavirus infections with right truncation: a statistical analysis of publicly 
+available case data. J Clin Med. 2020;9(2):538. doi: 10.3390/jcm9020538.
+16. Wu C, Chen X, Cai Y, Xia J, Zhou X, Xu S, et al. Risk factors associated with 
+acute respiratory distress syndrome and death in patients with coronavirus 
+disease 2019 pneumonia in Wuhan, China. March 2020. JAMA Intern Med. 
+2020 Mar 13;e200994. doi: 10.1001/jamainternmed.2020.0994.
+17. Zhou F, Yu T, Du R, Fan G, liu Y, liu Z, et al. Clinical course and risk factors 
+for mortality of adult inpatients with COVID-19 in Wuhan, China: a retro-
+spective cohort study. lancet. 2020;395(10229):1054-62.
+18. Gautret P, lagier JC, Parola P, Hoang VT, Meddeb l, Mailhe M, et al. 
+Hydroxychloroquine and azithromycin as a treatment of COVID-19: results 
+of an open-label non-randomized clinical trial. Int J Antimicrob Agents. 2020 
+Mar 20;105949. doi: 10.1016/j.ijantimicag.2020.105949.
+19. Rothan HA, Byrareddy Sn. The epidemiology and pathogenesis of corona-
+virus disease (COVID-19) outbreak. J Autoimmun. 2020;109:102433. doi: 
+10.1016/j.jaut.2020.102433.
+20. lai CC, Shih T, ko WC, Tang HJ, Hsueh PR. Severe acute respiratory 
+syndrome coronavirus 2 (SARS-CoV-2) and coronavirus disease-2019 
+(COVID-19): the epidemic and the challenges. Int J Antimicrob Agents. 
+2020;55(3):105924. doi: 10.1016/j.ijantimicag.2020.105924.
+21. Wu D, Wu T, liu Q, Yang Z. The SARS-CoV-2 outbreak: what we know. Int 
+J Infect Dis. 2020;94:44-8.
+22. Thomas-Rüddel D, Winning J, Dickmann P, Ouart D, kortgen A, Janssens 
+U, et al. Coronavirus disease 2019 (COVID-19): update for anesthesiologists 
+and intensivists March 2020. Anaesthesist. 2020;69(4):225-35.
+23. Chen l, Xiong J, Bao l, Shi Y. Convalescent plasma as a potential therapy 
+for COVID-19. lancet Infect Dis. 2020;20(4):398-400.
+24. Jiang F, Deng l, Zhang l, Cai Y, Cheung CW, Xia Z. Review of the clinical 
+characteristics of coronavirus disease 2019 (COVID-19). J Gen Intern Med. 
+2020. doi: 10.1007/s11606-020-05762-w.
+25. li R, Pei S, Chen B, Song Y, Zhang T, Yang W, et al. Substantial undoc-
+umented infection facilitates the rapid dissemination of novel coronavi-
+rus (SARS-CoV2). Science. 2020 Mar 16;eabb3221. doi: 10.1126/science.
+abb3221.
+26. lauer SA, Grantz kH, Bi Q, Jones Fk, Zheng Q, Meredith HR, et al. The 
+incubation period of coronavirus disease 2019 (COVID-19) from publicly 
+reported confirmed cases: estimation and application. Ann Intern Med. 
+2020;M20-0504. doi: 10.7326/M20-0504.
+27. liu k, Fang YY, Deng Y, liu W, Wang MF, Ma JP, et al. Clinical characteristics 
+of novel coronavirus cases in tertiary hospitals in Hubei Province. Chin 
+Med J (Engl). 2020 Feb 7;10.1097/CM9.0000000000000744. doi: 10.1097/
+CM9.0000000000000744
+28. Baud D, Qi X, nielsen-Saines k, Musso D, Pomar l, Favre G. Real estimates 
+of mortality following COVID-19 infection. lancet Infect Dis. 2020 Mar 
+12;S1473-3099(20)30195-X. doi: 10.1016/S1473-3099(20)30195-X.
+29. World Health Organization. Coronavirus disease 2019 (COVID-19). Situation 
+report – 46. Geneva: World Health Organization; 2020.
+30. Gao J, Tian Z, Yang X. Breakthrough: chloroquine phosphate has shown 
+apparent efficacy in treatment of COVID-19 associated pneumonia in clinical 
+studies. Biosci Trends. 2020;14(1):72-3.
+31. liu J, Cao R, Xu M, Wang X, Zhang H, Hu H, et al. Hydroxychloroquine, a less 
+toxic derivative of chloroquine, is effective in inhibiting SARS-CoV-2 infec-
+tion in vitro. Cell Discov. 2020 Mar 18;6:16. doi: 10.1038/s41421-020-0156-0.
+32. Ferguson nM, laydon D, nedjati-Gilani G, Imai n, Ainslie k, Baguelin M, et 
+al. Impact of non-pharmaceutical interventions (nPIs) to reduce COVID-19 
+mortality and healthcare demand. Imperial College COVID-19 Response 
+Team, london, March, 16. [cited 2020 Abr 2]. Available from: https://www.
+imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/
+Imperial-College-COVID19-nPI-modelling-16-03-2020.pdf
+33. Parmet WE, Sinha MS. Covid-19: the law and limits of quarantine. n Engl 
+J Med. 2020;382(15):e28. doi: 10.1056/nEJMp2004211.

@@ -6,7 +6,7 @@
   "scripts": {
     "start": "tsx src/index.ts",
     "start:dev": "tsx --watch src/index.ts",
-    "build": "rimraf dist && tsup src/index.ts --format cjs,esm --dts --minify"
+    "build": "tsup src/index.ts --format cjs,esm --dts --minify"
   },
   "author": "",
   "license": "ISC",
