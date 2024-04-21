@@ -24,7 +24,7 @@ export class OpenAIService {
             openai.apiKey = reqBody.openaiKey
             await openai.chat.completions.create({
                 messages: [{ role: "system", content: "Isso é um teste." },
-                { role: "user", content: "Isso é um teste de conexão. Reposta apenas com um json {'resposta': 'ok'}" }],
+                { role: "user", content: "Isso é um teste de conexão. Responda apenas com um json {'resposta': 'ok'}" }],
                 model: reqBody.model,
                 response_format: { type: "json_object" }
             });
