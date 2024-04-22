@@ -2,6 +2,7 @@ import { ExtrAIService } from './../service/extrAIService';
 import { Request, Response } from 'express';
 import { OpenAIService } from 'service/openAIService';
 import { MongodbService } from 'service/mongodbService';
+import "dotenv/config";
 
 export class ExtrAIController {
     extrAIService = new ExtrAIService()
@@ -17,8 +18,8 @@ export class ExtrAIController {
             reqBody.db = process.env.DB
             reqBody.mongoUrl = process.env.MONGO_URL
             console.log(reqBody)
-            await this.extrAIService.extractJsonFromPdfAndSave(reqBody, pdfBuffer)
-            res.status(200).send()
+            const resposta = await this.extrAIService.extractJsonFromPdfAndSave(reqBody, pdfBuffer)
+            res.status(200).send(resposta)
         } catch (error: any) {
             console.log(error.message)
             console.log("erro na extração")

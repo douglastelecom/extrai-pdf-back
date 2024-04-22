@@ -11,6 +11,7 @@ export class ExtrAIService {
         const pdf = await PdfParse(pdfBuffer)
         const json = await this.openaiService.completion(reqBody, pdf.text)
         const mongoReturn = await this.mongodbService.saveJson(reqBody, json)
+        return json
     }
 
     extractValuesFromErrorMessage(errorMessage: any) {
