@@ -21,7 +21,7 @@ export class OpenAIService {
         } catch (error: any) {
             if (error.error.message.substring(0, 10) === "Rate limit") {
                 const pause = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
-                await pause(60000);
+                await pause(30000);
                 const response: any = await this.completion(reqBody, article)
                 return response
             } else if (error.error.message.substring(0, 20) === "This model's maximum") {
