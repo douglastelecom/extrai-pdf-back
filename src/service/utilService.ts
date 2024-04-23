@@ -11,11 +11,9 @@ export class UtilService{
     }
 
     reduceTextLength(maxToken: number, currentToken: number, text: string) {
-        console.log("tamanho do texto original: " + text.length)
         const ratioToken = (maxToken / currentToken) - 0.05
-        console.log(ratioToken)
         const textReduced = text.slice(0, Math.ceil(text.length * ratioToken))
-        console.log("tamanho do texto reduzido: " + textReduced.length)
+        console.log("Tamanho do texto reduzido para " + (ratioToken*100)+ "%")
         return textReduced
     }
 }

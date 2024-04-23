@@ -31,7 +31,6 @@ export class ExtrAIController {
             reqBody.model = process.env.MODEL
             reqBody.db = process.env.DB
             reqBody.mongoUrl = process.env.MONGO_URL
-            console.log(reqBody)
             await this.openaiService.testConnection(reqBody)
             await this.mongodbService.testConnection(reqBody.mongoUrl)
             res.status(200).send()
