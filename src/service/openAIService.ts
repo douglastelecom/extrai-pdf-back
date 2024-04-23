@@ -12,7 +12,8 @@ export class OpenAIService {
                 messages: [{ role: "system", content: "Você será minha ferramenta para extração de dados." },
                 { role: "user", content: reqBody.instruction + "Extraia as informações em português do artigo abaixo respondendo com um json no formato: " + reqBody.json + "/n " + article }],
                 model: reqBody.model,
-                response_format: { type: "json_object" }
+                response_format: { type: "json_object" },
+                seed: 100
             });
             const response = JSON.parse(responseCompletion.choices[0].message.content!)
             return response

@@ -11,13 +11,12 @@ export class ExtrAIController {
 
     async extractJsonFromPdf(req: Request, res: Response) {
         try {
-            const pdfBuffer = req.file!.buffer
             const reqBody = JSON.parse(req.body.json)
             reqBody.openaiKey = process.env.OPENAI_KEY
             reqBody.model = process.env.MODEL
             reqBody.db = process.env.DB
             reqBody.mongoUrl = process.env.MONGO_URL
-            const resposta = await this.extrAIService.extractJsonFromPdfAndSave(reqBody, pdfBuffer)
+            const resposta = await this.extrAIService.extractJsonFromPdfAndSave(reqBody, req.file!)
             res.status(200).send(resposta)
         } catch (error: any) {
             console.log(error)
