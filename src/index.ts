@@ -33,5 +33,5 @@ app.post("/test", async (req: Request, res: Response) => {
 
 app.get("/", (req: Request, res: Response) => {
     console.log("Its running!")
-    res.status(200).send('Server is running');
+    res.status(200).send({message: 'Server is running'});
 });
