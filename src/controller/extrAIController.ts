@@ -17,12 +17,10 @@ export class ExtrAIController {
             reqBody.model = process.env.MODEL
             reqBody.db = process.env.DB
             reqBody.mongoUrl = process.env.MONGO_URL
-            console.log(reqBody)
             const resposta = await this.extrAIService.extractJsonFromPdfAndSave(reqBody, pdfBuffer)
             res.status(200).send(resposta)
         } catch (error: any) {
-            console.log(error.message)
-            console.log("erro na extração")
+            console.log(error)
             res.status(500).send(error)
         }
     }

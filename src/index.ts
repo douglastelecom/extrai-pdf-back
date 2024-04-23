@@ -25,12 +25,15 @@ server.listen(port, () => {
 
 app.post("/completion", upload.single('file'), async (req: Request, res: Response) => {
     await extraAIController.extractJsonFromPdf(req, res);
+    console.log("completion iniciado")
 })
 
 app.post("/test", async (req: Request, res: Response) => {
     await extraAIController.testConnections(req, res)
+    console.log("teste iniciado")
 })
 
 app.get("/", (req: Request, res: Response) => {
+    console.log("healthcheck iniciado")
     res.status(200).send('Server is running');
 });
