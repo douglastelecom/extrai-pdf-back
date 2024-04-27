@@ -26,13 +26,10 @@ export class OpenAIService {
                 return response
             } else if (error.error.message.substring(0, 20) === "This model's maximum") {
                 var { maxContextLength, resultedTokens } = this.utilService.extractValuesFromErrorMaximumContent(error.message)
-                if ((maxContextLength / resultedTokens) < 0.75) {
-                    throw new Error("Arquivo muito grande.")
-                } else {
                     article = this.utilService.reduceTextLength(maxContextLength, resultedTokens, article)
                     const response: any = await this.completion(reqBody, article)
                     return response
-                }
+                
             }
             console.log(error)
             throw error
